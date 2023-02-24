@@ -3,6 +3,7 @@
 Created on Fri Feb 24 11:05:38 2023
 
 @author: Xuan Nguyen
+@mail: nguyenthingocxuan742002@gmail.com
 """
 
 import requests
