@@ -2,7 +2,8 @@
 """
 Created on Fri Feb 24 09:12:38 2023
 
-@author: nguye
+@author: Xuan Nguyen
+@mail: nguyenthingocxuan742002@gmail.com
 
 Chapter 5 Scraping Table
 """
