@@ -2,7 +2,7 @@
 """
 Created on Fri Feb 24 11:05:38 2023
 
-@author: nguye
+@author: Xuan Nguyen
 """
 
 import requests
