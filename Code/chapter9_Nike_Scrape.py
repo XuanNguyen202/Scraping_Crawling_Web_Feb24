@@ -45,31 +45,4 @@ for product in product_card:
 
 df.to_csv('D:\OneDrive - mrsnguyen\Leisure\Simple\Scraping_Crawling/Undemy_crawl/Nike_scraped.csv')
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# ---------X-------
